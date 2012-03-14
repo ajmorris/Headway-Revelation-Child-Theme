@@ -1,0 +1,38 @@
+/*  
+Theme Name: Headway Revelation Theme
+Theme URI: http://headwaythemes.com
+Description: A Simple Headway Child Theme 
+Version: 0.1
+Author: Headway Themes
+Author URI: http://headwaythemes.com
+Template: headway
+*/
+
+body { background: url(images/robots.png); font-family: "Helvetica", Arial, sans-serif; font-size: 14px; }
+.banner a { font-size: 26px; }
+.home h1 { font-size: 18px; }
+.tagline { font-size: 18px; }
+h1 { font-size: 26px; }
+h2 { font-size: 24px; }
+h3 { font-size: 20px; }
+h4 { font-size: 18px; }
+a { color: green; }
+
+.wrapper { font-family: "Helvetica", Arial, sans-serif; background: #fff; }
+
+.block-type-content { margin: 0 10px; }
+
+
+
+nav { font-size: 14px; }
+.menu { background: green; }
+.sub-menu { background: green; }
+nav a { color: white; }
+nav a:hover { text-decoration: underline; }
+nav a:selected { color: white; }
+
+.block-type-widget-area { background: orange; }
+
+.block-type-content .entry-meta-above { border-bottom: 1px dashed #ddd; padding-bottom: 10px; }
+
+.block-type-footer { border-top: 1px solid green; }
